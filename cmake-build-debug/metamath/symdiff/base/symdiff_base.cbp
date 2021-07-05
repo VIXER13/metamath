@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="symdiff_base"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\metamath\;CMake Files\metamath\constants\;CMake Files\metamath\finite_element\;CMake Files\metamath\finite_element\geometry\;CMake Files\metamath\finite_element\quadrature\;CMake Files\metamath\finite_element\element_base\;CMake Files\metamath\finite_element\element_1d\;CMake Files\metamath\finite_element\element_2d\;CMake Files\metamath\functions\;CMake Files\metamath\symdiff\;CMake Files\metamath\symdiff\base\;CMake Files\metamath\symdiff\functions\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vixer/projects/metamath/cmake-build-debug/metamath/symdiff/base"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/vixer/projects/metamath/cmake-build-debug/metamath/symdiff/base/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/vixer/projects/metamath/cmake-build-debug/metamath/symdiff/base/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/vixer/projects/metamath/cmake-build-debug/metamath/symdiff/base/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/vixer/projects/metamath/cmake-build-debug/metamath/symdiff/base/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vixer/projects/metamath/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/constants/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\constants\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/finite_element/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\finite_element\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/finite_element/geometry/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\finite_element\geometry\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/finite_element/quadrature/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\finite_element\quadrature\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/finite_element/element_base/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\finite_element\element_base\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/finite_element/element_1d/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\finite_element\element_1d\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/finite_element/element_2d/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\finite_element\element_2d\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/functions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\functions\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/symdiff/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\symdiff\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/symdiff/base/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\symdiff\base\"/>
+		</Unit>
+		<Unit filename="/home/vixer/projects/metamath/metamath/symdiff/functions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\metamath\symdiff\functions\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
