@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/metamath_example.dir/main.cpp.o -o metamath_example 
